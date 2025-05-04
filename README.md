@@ -23,7 +23,7 @@ It uses Selenium and undetected-chromedriver for web scraping and browser automa
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Harshit-Chaudhry/Insta_Report_Bot.git
     cd Insta_Report_Bot
     ```
 2.  **Install dependencies:**
@@ -73,3 +73,5 @@ These can be installed using the `requirements.txt` file as shown in the Install
 ## Disclaimer
 
 This tool automates actions on Instagram. Use it responsibly and ethically. Excessive or inappropriate use may violate Instagram's terms of service and could lead to account restrictions or suspension. The developers are not responsible for any misuse of this tool or consequences resulting from its use.
+
+⚠️⚠️ This code is in under Development. This is not compelete code. If you want to contribute then you can reach on my main github profile link and send message on the given EMAIL .
